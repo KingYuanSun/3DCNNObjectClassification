@@ -1,0 +1,4 @@
+python YuanCNN1.py
+python YuanCNN2.py
+python YuanCNN3.py ObjectLiDAR.npz ~/Desktop/YuanCNN-7/tmp/
+
