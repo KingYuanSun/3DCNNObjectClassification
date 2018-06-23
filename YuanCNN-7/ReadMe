@@ -1,4 +1,12 @@
+This project use CNN (based on Keras and Tensorflow) to classify seven classes 3D lidar data objects from SYDNEY URBAN OBJECTS DATASET.
+
+http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml
+
+Among 7 classes (CLASSES = ['4wd', 'bus', 'car', 'truck', 'van', 'tree', 'pedestrian']),my algorithm's accuracy could reach to 74.7%.
+
+
+Usage:
+
 python YuanCNN1.py
 python YuanCNN2.py
 python YuanCNN3.py ObjectLiDAR.npz ~/Desktop/YuanCNN-7/tmp/
-
